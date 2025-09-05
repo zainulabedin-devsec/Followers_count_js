@@ -24,6 +24,11 @@ JavaScript
 
 ├── followers_count.js # JavaScript logic
 
+Screenshots:
+
+<img width="679" height="217" alt="image" src="https://github.com/user-attachments/assets/5014ef57-ddb3-49b5-beaf-9ea2fefbff2f" />
+
+
 ## 💻 How to Run
 1. Clone this repository:
    
